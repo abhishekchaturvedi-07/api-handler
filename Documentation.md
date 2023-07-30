@@ -35,4 +35,13 @@
 `Created listing page with basic structure of select type and rating with useState hook`
 
 [Commit6]
-### Rendering the list page
+### Rendering the list page with the help of PageDetails page by prossing the props
+`Create Grid in list page by adding places array of object and calling via map`
+
+[Commit7]
+### API calling and using - Rapid API
+`Create account in RapidAPI`
+`Search for Travel Advisor`
+`Subscribe to TEst for the free account`
+`For Testing -> go to Endpoints -> select any hotel -> list-by-lating -> right side change the option to (JS) Axios -> Copy the code`
+`Create api/index.js folder and paste it `
