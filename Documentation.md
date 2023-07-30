@@ -33,3 +33,6 @@
 `Create the account and register for the free google map api $200 a month`
 `Once done with the google map api setup -> go to credentials and create new one -> API Key`
 `Created listing page with basic structure of select type and rating with useState hook`
+
+[Commit6]
+### Rendering the list page
