@@ -24,7 +24,7 @@
 `Created placeholder GoogleMapReact in Map.js`
 
 [Commit5]
-### Creation of Google Cloud Developer account for accessing the map with the key
+### Creation of Google Cloud Developer account for accessing the map with the key | Add Listing page with hook 'useState'
 `https://console.cloud.google.com/projectcreate`
 `TravelAdvisor`
 `after successful creation : https://console.cloud.google.com/home/dashboard?project=turnkey-thought-288318 : Switch to Travel Advisor`
@@ -32,3 +32,4 @@
 `Go to Api and Services -> Library -> Search for Maps -> Select Maps Javascript API -> ENABLE`
 `Create the account and register for the free google map api $200 a month`
 `Once done with the google map api setup -> go to credentials and create new one -> API Key`
+`Created listing page with basic structure of select type and rating with useState hook`
