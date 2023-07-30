@@ -1,8 +1,9 @@
 import {Paper, Typography, useMediaQuery} from '@material-ui/core'
 
+import GoogleMapReact from 'google-map-react';
+import LocationCityOutlinedIcon  from '@material-ui/icons';
 import Rating from '@material-ui/lab'
 import React from 'react';
-import googleMapReact from 'google-map-react';
 import useStyles from './styles'
 
 const Map = () => {
@@ -11,8 +12,8 @@ const Map = () => {
     const coordinates ={lat:0, lng:0}
     return(
         <div className={classes.mapContainer}>
-            <GoogleMapRect
-                bootstrapURLKeys={{key:''}}
+            <GoogleMapReact
+                bootstrapURLKeys={{key:'AIzaSyBcc2b1zj2TyMRFzMhePiuhZsFxxzzpn44'}}
                 defaultCenter={coordinates}
                 center = {coordinates}
                 defaultZoom={14}
@@ -22,7 +23,7 @@ const Map = () => {
                 onChildClick={''}
             >
 
-            </GoogleMapRect>
+            </GoogleMapReact>
         </div>
     )
 }

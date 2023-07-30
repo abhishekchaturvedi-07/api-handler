@@ -22,3 +22,13 @@
 ### Adding all the Styles in hheader js and add GoogleMapReact with the placeholders in MAp.js
 `Added css in js in styles.js for header`
 `Created placeholder GoogleMapReact in Map.js`
+
+[Commit5]
+### Creation of Google Cloud Developer account for accessing the map with the key
+`https://console.cloud.google.com/projectcreate`
+`TravelAdvisor`
+`after successful creation : https://console.cloud.google.com/home/dashboard?project=turnkey-thought-288318 : Switch to Travel Advisor`
+` redirected to : https://console.cloud.google.com/home/dashboard?project=decent-bird-394407`
+`Go to Api and Services -> Library -> Search for Maps -> Select Maps Javascript API -> ENABLE`
+`Create the account and register for the free google map api $200 a month`
+`Once done with the google map api setup -> go to credentials and create new one -> API Key`
