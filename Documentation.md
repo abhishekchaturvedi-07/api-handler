@@ -45,3 +45,7 @@
 `Subscribe to TEst for the free account`
 `For Testing -> go to Endpoints -> select any hotel -> list-by-lating -> right side change the option to (JS) Axios -> Copy the code`
 `Create api/index.js folder and paste it `
+
+[Commit8]
+### Display the data from RapidApi in our appilcation by modifying the code
+`Modifying the api/index.js and remove unnecessary code`
