@@ -17,3 +17,8 @@
 ### Creation of Component folder and 4 components
 `Header | Map | List | PlaceDetails`
 `Also created the baseline structure of the page with Header, List and Map for all the resolutions`
+
+[Commit4]
+### Adding all the Styles in hheader js and add GoogleMapReact with the placeholders in MAp.js
+`Added css in js in styles.js for header`
+`Created placeholder GoogleMapReact in Map.js`
